@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/Users/wladimir.souza/Documents/DevOps SysAdmin/desafio3-vagrant-docker/Arquivo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/wladimir.souza/Documents/DevOps SysAdmin/desafio3-vagrant-docker","disabled":false,"__vagrantfile":true}}}
